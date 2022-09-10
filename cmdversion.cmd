@@ -4,3 +4,4 @@ echo "but is it? is it really?"
 pause
 @echo off
 start homepage.html
+@echo on
